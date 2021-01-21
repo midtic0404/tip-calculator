@@ -60,6 +60,7 @@ body {
 }
 
 .tips-total {
+  max-width: 400px;
   margin: 10px;
   padding: 15px;
   width: 100%;
